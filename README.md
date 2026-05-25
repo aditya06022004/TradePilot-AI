@@ -79,9 +79,9 @@ Topics:
 | Name | Role |
 |------|------|
 | Aditya Sharma | ML Engineer |
-| Aditya Pandey | Data Engineer |
+| Aditya Pandey | Frontend Developer |
 | Anuj Pathak | Backend Developer |
-| Adarsh Sondhiya | Frontend Developer |
+| Adarsh Sondhiya | Data Engineer  |
 | Moohneesh Jangde | Quant Analyst |
 | Nishant Shau | AI / NLP Developer |
 
