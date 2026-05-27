@@ -1,4 +1,11 @@
 # ✈️ TradePilot — AI Market Intelligence
+## 🚀 Live Demo
+
+Experience TradePilot AI live on Streamlit:
+
+🔗 [TradePilot AI Demo](https://tradepilot-ai-ca7rpiwky7p8tgpjux4uf9.streamlit.app/)
+
+TradePilot AI is an AI-powered trading assistant that provides market insights, stock analysis, and intelligent trading support through an interactive Streamlit interface.
 
 **B.Tech 4th Year Major Project — Computer Science & Engineering**
 
