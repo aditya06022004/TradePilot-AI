@@ -3,7 +3,7 @@ import streamlit as st
 from datetime import datetime
 import re
 
-GEMINI_API_KEY = "AIzaSyACN3Cl-z3****So_Z6q7Ud6*****1e44"
+GEMINI_API_KEY = "AQ.Ab8RN6IOtUIyshcbwOpUDp7L-oeDDxI3GGqvwQSYnVzPrtgnNA"
 GEMINI_MODEL = "gemini-2.5-flash"
 
 RISK_SYSTEM_PROMPT = """You are RiskGuard AI — an elite risk management assistant built for active traders and investors.
